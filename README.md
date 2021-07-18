@@ -14,4 +14,4 @@
 
 
 # Demo 🕹️
-[Tech](https://izabellaloyse.github.io/lampada-js/)
+[Lampada](https://izabellaloyse.github.io/lampada-js/)
